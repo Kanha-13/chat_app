@@ -1,0 +1,31 @@
+{
+  "name": "chatApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abab": "^1.0.4",
+    "abbrev": "^1.1.1",
+    "acorn": "^2.7.0",
+    "acorn-globals": "^1.0.9",
+    "agent-base": "^6.0.2",
+    "ansi-escapes": "^3.2.0",
+    "ansi-regex": "^4.1.0",
+    "ansicolors": "^0.3.2",
+    "array-flatten": "^1.1.1",
+    "array-union": "^2.1.0",
+    "assert-plus": "^1.0.0",
+    "express": "^4.17.1",
+    "heroku": "^7.47.5",
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
